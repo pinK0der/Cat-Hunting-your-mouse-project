@@ -12,3 +12,5 @@ document.onmousemove = (event) => {
 //lose condition
 
 cat.onmouseover = () => {alert(`Game over!`);}
+
+//i commit it from vs code so try to commit it
